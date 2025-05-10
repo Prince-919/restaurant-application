@@ -16,7 +16,7 @@ const About = () => {
             veritatis ea, adipisci distinctio a quo dicta expedita sit officia
             dignissimos voluptas, saepe labore provident maxime accusantium!
             Reiciendis corrupti quis quidem aliquid asperiores, culpa quod
-            soluta cum explicabo! Quae cupiditate animi perferendis.
+            soluta cum explicabo! Que cupiditate animi perferendis.
           </p>
           <Link to="/">
             Explore Menu{" "}
